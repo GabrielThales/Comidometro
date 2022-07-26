@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comidometro</string>
+    <string name="comidometro_title">Comidometro</string>
+    <string name="btn_title">Adicionar Comida</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_gasto_title">Adicionar Gasto</string>
+    <string name="lbl_nomecomida">Nome do Lanche / Comida</string>
+    <string name="lbl_preco">Preço do Lanche / Comida</string>
+</resources>

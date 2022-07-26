@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="comidometro_title">Comidometro</string>
+    <string name="btn_title">Adicionar Comida</string>
+    <string name="add_gasto_title" />
+    <string name="lbl_preco">Preço do Lanche / Comida</string>
+</resources>
